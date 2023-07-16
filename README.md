@@ -1,8 +1,6 @@
 # Property-Type-and-Price-Prediction
 
-This repository contains an R script that performs preprocessing and analysis on a real estate dataset. The script first cleans the data, removing null and outliers, and then converts certain categorical attributes to numeric.
-
-From these processed features, classification and regression models are implemented and evaluated. The goal of the model is to predict the type of property (houses, apartments, etc.) and its price, based on various characteristics, such as the number of bedrooms, bathrooms, and parking spaces.
+Machine learning models for predicting property type and price based on property characteristics.
 
 ## Code
 The R code performs the following main tasks:
