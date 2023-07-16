@@ -18,16 +18,19 @@ The R code performs the following main tasks:
 ## Requirements
 The code is implemented in R and uses the following libraries:
 
--ggplot2
--dplyr
+- ggplot2
+- dplyr
 - caret
--nnet
--corrplot
--rpart
--clusterGeneration
--devtools
--rpart.plot
--Metrics
--e1071
+- nnet
+- corrplot
+- rpart
+- clusterGeneration
+- devtools
+- rpart.plot
+- Metrics
+- e1071
 
 The data file 'melb_data.csv' must be available in the same directory as the R script for it to run.
+
+
+
